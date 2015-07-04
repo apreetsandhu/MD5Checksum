@@ -12,6 +12,7 @@ import javafx.fxml.FXML;
 /**
  *
  * @author Anmolpreet Sandhu
+ * UBC Vancouver
  */
 public class Md5check {
 
